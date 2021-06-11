@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(royalblue,royalblue);
+}
+#stories_by_manav{
+    width: 200px;
+    height: 360px;
+}
+#story_stars{
+    width: 200px;
+    height: 360pxpx;
+}
+#abtimg{
+    width: 500px;
+    height: 350px;
+}
+#ranger{
+    width: 150px;
+    height: 220px;
+}
+#bg{
+   width: 1140px;
+   height: 500px;
+}
+#ad{
+    text-align: center;
+    float: none;
+}
+#empty{
+    text-align: center;
+    align-items: center;
+}
+#ranger2{
+    width: 150px;
+    height: 220px;
+}
+#img12{
+    height: 250px;
+    width: 250px;
+}
+
